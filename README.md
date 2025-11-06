@@ -1,4 +1,4 @@
-# 🧬 Optical Tweezers Unwinding Analysis Scripts
+# 🧬 Optical Tweezers Unwinding Analysis Scripts and pymol sessions
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Lumicks pylake](https://img.shields.io/badge/dependency-pylake-orange)](https://lumicks-pylake.readthedocs.io/en/latest/)
